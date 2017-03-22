@@ -8,6 +8,7 @@ function getAllUsers(req){
     return new Promise(function(resolve, reject){
         Student.find((err, docs) => {
             if(err) throw err.message;
+            console.log(JSON.stringify(docs));
             resolve(docs);
         })
     })

@@ -1,0 +1,40 @@
+{
+  "response" : [
+    {
+      "_id": "58d27c3151566b055897bf91",
+      "password": "$2a$10$88gOH5DAOn9lMZlIWnpkO.wjzCAGMX7PzfMlJCJ.S.7b/xPWGOr9W",
+      "email": "rajendra@gmail.com",
+      "username": "rajendra",
+      "name": "rajendra",
+      "__v": 0
+    },
+    {
+      "_id": "58d27ccb8e9f0a2558319552",
+      "password": "$2a$10$tl0vlKTL8sfWts4cdTQx8O2.EOoG2PGqxz42Wus2vQcw.NS5TVLjG",
+      "email": "mahesh@gmail.com",
+      "username": "mahesh",
+      "name": "mahesh",
+      "__v": 0
+    },
+    {
+      "_id": "58d27d0827445f27e8749eed",
+      "password": "$2a$10$qz0JMhH6TPyGw.Eah6./uOk6Lfta6FZsneaxiy6eNwe5X9N3B0RAa",
+      "email": "raj@tt,com",
+      "username": "raj",
+      "name": "raj",
+      "__v": 0
+    }
+  ],
+  "studentId" : "58d27d0827445f27e8749eed",
+  "responseGetById" : {
+    "_id": "58d27d0827445f27e8749eed",
+    "password": "$2a$10$qz0JMhH6TPyGw.Eah6./uOk6Lfta6FZsneaxiy6eNwe5X9N3B0RAa",
+    "email": "raj@tt,com",
+    "username": "raj",
+    "name": "raj",
+    "__v": 0
+  },
+  "removedResponse" : {
+    "msg": "user Removed"
+  }
+}
