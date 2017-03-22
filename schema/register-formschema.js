@@ -26,4 +26,4 @@ studentSchema.pre('save', function (next){
 });
 
 
-module.exports = mongoose.model('records',studentSchema);
+module.exports = mongoose.model('newUsers',studentSchema);
